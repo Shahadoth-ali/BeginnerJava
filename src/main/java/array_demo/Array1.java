@@ -1,6 +1,6 @@
 
 package array_demo;
-
+//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
 public class Array1 {
     public static void main(String[] args) {
      int[] number=new int[5]; 
